@@ -1,0 +1,9 @@
+C:\experiment\TinyCLR\TinyCLR-Accessories\SampleApp\bin\Debug\SampleApp.exe
+C:\experiment\TinyCLR\TinyCLR-Accessories\SampleApp\bin\Debug\SampleApp.pdb
+C:\experiment\TinyCLR\TinyCLR-Accessories\SampleApp\bin\Debug\GHIElectronics.TinyCLR.Devices.dll
+C:\experiment\TinyCLR\TinyCLR-Accessories\SampleApp\bin\Debug\GHIElectronics.TinyCLR.IO.dll
+C:\experiment\TinyCLR\TinyCLR-Accessories\SampleApp\bin\Debug\GHIElectronics.TinyCLR.Pins.dll
+C:\experiment\TinyCLR\TinyCLR-Accessories\SampleApp\bin\Debug\mscorlib.dll
+C:\experiment\TinyCLR\TinyCLR-Accessories\SampleApp\obj\Debug\SampleApp.csproj.CoreCompileInputs.cache
+C:\experiment\TinyCLR\TinyCLR-Accessories\SampleApp\obj\Debug\SampleApp.exe
+C:\experiment\TinyCLR\TinyCLR-Accessories\SampleApp\obj\Debug\SampleApp.pdb
